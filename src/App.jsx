@@ -2,10 +2,8 @@
 import React from 'react'
 const App = () => {
   return (
-    <div>
-      <h1 class="text-3xl font-bold underline">
-         Hello world!, This is my first react App
-      </h1>
+    <div className='min-h-screen bg-cover bg-center text-white' style={{ backgroundImage: "url('background.jpg')" }}>
+      
     </div>
   )
 }
