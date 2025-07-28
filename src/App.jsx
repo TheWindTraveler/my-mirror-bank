@@ -2,6 +2,8 @@
 import React from 'react'
 import backgroundImage from './assets/background.jpg'
 
+// I showed up today!
+
 const App = () => {
   return (
     <div
